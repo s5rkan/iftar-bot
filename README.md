@@ -10,7 +10,7 @@
 #### 1 - Bir terminal açın ve `npm install yarn --g` yazın yüklenmesini bekleyin.
 #### 2 - Altyapı dosyası içinde terminal açın `yarn install` yazın ve bütün gerekli modülleri yükleyin.
 #### 3 - Modülleri yükledikten sonra src klasörünün içinde bulunan config.js dosyasını doldurun.
-#### 4 - Üsteki 3 maddeyi yaptıktan sonra start.bat adlı dosyayı açın ve botunuz aktif bir şekilde çalışacaktır.
+#### 4 - Üsteki 3 maddeyi yaptıktan sonra `start.bat` adlı dosyayı açın ve botunuz aktif bir şekilde çalışacaktır.
 
 <hr />
 
